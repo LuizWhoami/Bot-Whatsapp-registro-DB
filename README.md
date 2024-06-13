@@ -1,6 +1,6 @@
 # Projeto Bot Whatsapp com Registro em banco de dados
 
-Este repositório contém um projeto Python que utiliza as bibliotecas `openpyxl`, `urllib.parse`, `webbrowser`, `time` e `pyautogui`.
+Este repositório contém um projeto Python que utiliza as bibliotecas `openpyxl`, `urllib.parse`, `webbrowser`, `time`, `tkinter`, `pandas`, `ttkbootstrap`, `sqlite3`.
 
 ## Pré-requisitos
 
