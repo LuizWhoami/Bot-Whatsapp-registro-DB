@@ -1,4 +1,4 @@
-# Projeto Python com Bibliotecas
+# Projeto Bot Whatsapp com Registro em banco de dados
 
 Este repositório contém um projeto Python que utiliza as bibliotecas `openpyxl`, `urllib.parse`, `webbrowser`, `time` e `pyautogui`.
 
@@ -22,7 +22,10 @@ Siga os passos abaixo para instalar as bibliotecas necessárias:
     ```bash
     python -m venv venv
     ```
-
+1. teste
+   ```
+   python =dasd
+   ```
 3. Ative o ambiente virtual:
 
     - No Windows:
