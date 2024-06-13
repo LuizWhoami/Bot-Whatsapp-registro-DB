@@ -22,10 +22,7 @@ Siga os passos abaixo para instalar as bibliotecas necessárias:
     ```bash
     python -m venv venv
     ```
-1. teste
-   ```
-   python =dasd
-   ```
+
 3. Ative o ambiente virtual:
 
     - No Windows:
