@@ -53,5 +53,11 @@ from urllib.parse import quote
 import webbrowser
 from time import sleep
 import pyautogui
-
-# Seu código aqui
+from tkinter import *
+from tkinter import messagebox
+import pandas as pd
+from openpyxl.workbook import Workbook
+from ttkbootstrap.style import Style
+import sqlite3
+```
+#Obrigado
